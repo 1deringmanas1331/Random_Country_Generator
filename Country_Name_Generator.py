@@ -1,3 +1,4 @@
+# import the random library
 import random
 
 # List of countries
