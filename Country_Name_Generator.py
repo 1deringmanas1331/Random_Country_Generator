@@ -1,6 +1,7 @@
 import random
 
 # List of countries
+# Declare the country names in a list
 countries = [
     "Afghanistan",
     "Albania",
