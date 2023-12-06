@@ -3,6 +3,7 @@ import random
 
 # List of countries
 # Declare the country names in a list
+
 countries = [
     "Afghanistan",
     "Albania",
@@ -204,7 +205,7 @@ countries = [
    
 
 
-# Generate a random country's name
+# Generate a random country's name using
 random_country = random.choice(countries)
 
 # Prints the random country name
