@@ -205,8 +205,8 @@ countries = [
    
 
 
-# Generate a random country's name using
+# Generate a random country's name using random library
 random_country = random.choice(countries)
 
 # Prints the random country name
-print("Random Country:", random_country)
+print("Random Country :", random_country)
