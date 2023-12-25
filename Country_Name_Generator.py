@@ -208,5 +208,5 @@ countries = [
 # Generate a random country's name using random library
 random_country = random.choice(countries)
 
-# Print the random country name
+# Print the random country's name
 print("Random Country :", random_country)
